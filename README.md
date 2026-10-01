@@ -1,16 +1,32 @@
-## Hi there 👋
+# Stralith
 
-<!--
-**stralith/stralith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### From layers of data to intelligent systems.
 
-Here are some ideas to get you started:
+**Applied AI · Machine Learning · GeoAI · Computer Vision**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical AI systems from data, imagery and spatial information.
+
+My work explores the intersection of machine learning, geospatial data and computer vision, with a focus on turning real-world data into useful, testable systems.
+
+## Current focus
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- GeoAI
+- Remote Sensing
+- Geospatial Data
+- Applied AI
+
+## Tech
+
+**Python** · NumPy · Pandas · Rasterio · GeoPandas  
+**Machine Learning** · Scikit-learn  
+**Deep Learning** · TensorFlow · Keras · PyTorch  
+**Geospatial** · QGIS · Google Colab
+
+## What you'll find here
+
+Projects, experiments and prototypes focused on building and understanding end-to-end AI workflows:
+
+`data → preprocessing → features → modeling → validation → useful output`
